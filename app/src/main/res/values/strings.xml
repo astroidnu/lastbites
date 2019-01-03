@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Lastbites</string>
+
+
+    <string name="home">Home</string>
+    <string name="orders">Orders</string>
+    <string name="badges">Badges</string>
+    <string name="account">Account</string>
 </resources>
